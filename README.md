@@ -119,11 +119,13 @@ Aleo 中文文档已经在加紧翻译中啦 🚀
 欢迎大家一起参与翻译共建，无论是补充内容、修正文案，还是完善教程，都会帮助更多开发者更轻松进入 Aleo 生态 💪
 
 后续所有学员都可以直接通过以下地址直接查看中文文档：
-https://openbuildxyz.github.io/Aleo-101-Bootcamp
+
+* https://openbuildxyz.github.io/Aleo-101-Bootcamp
 
 目前 `docs/` 目录也正在持续补充与翻译官方内容，可参考：
-官方文档：https://developer.aleo.org/guides/introduction/getting_started/
-官方文档资源源代码：https://github.com/AleoNet/welcome
+
+* 官方文档：https://developer.aleo.org/guides/introduction/getting_started/
+* 官方文档资源源代码：https://github.com/AleoNet/welcome
 
 ---
 
